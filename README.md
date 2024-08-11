@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Aathil 
 - 👀 I’m interested in Full Stack Web Development 
-- 📫 How to reach me- Mail me at -> aathil.s1212@gmail.com
+- Reach me at -> aathil.s1212@gmail.com
